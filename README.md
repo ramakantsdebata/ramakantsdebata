@@ -15,7 +15,7 @@ As a **freelance project consultant and technical trainer**, I work with startup
 
 - **Languages**: C++, Python, Bash  
 - **Frameworks**: FastAPI, STL, Django (basics)  
-- **Tools**: Git, Docker, CMake, VS Code, Visual Studio  
+- **Tools**: Git, Docker, Kubernetes, CMake, VS Code, Visual Studio  
 - **Cloud & Infra**: AWS (core services), Azure (Core services), Containers, CI/CD pipelines  
 - **Training Domains**: Python (Core to Advanced), C++ (from Essentials to Advanced), Git, Bash, FastAPI, select AWS/Azure tools
 
